@@ -12,7 +12,6 @@ fun main(){
                 input = readLine()!!.toInt()
                 amount += input
             }
-
         }catch (exception: Exception){
             println("Invalid Input!! Try Again")
             amount = 0
