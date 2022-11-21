@@ -18,6 +18,4 @@ fun main(){
     var serialNumber: String
     var color: String
 
-
-
 }
