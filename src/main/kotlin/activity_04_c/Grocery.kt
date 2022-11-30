@@ -1,4 +1,4 @@
-package activity_01j.activity_04_b.activity_04_c
+package activity_04_c
 
 class Poultry {
     var brand: String = ""
